@@ -5,3 +5,5 @@ Imersão em desenvolvimento de APIs com Node.js By #NodeBR!
 
 *  Trabalhando com Callbacks
 *  Introdução a Promises
+*  REFatorando Callbacks para Promises
+*  Introdução a resolução de Promises com async/await
