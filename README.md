@@ -14,6 +14,7 @@ Imersão em desenvolvimento de APIs com Node.js By #NodeBR!
 
 ###  Manipulando listas
 
-*  Manipulando listas com For/ForIn/ForOf
-*  Criando nosso proprio Array.Map
-*  Criando nosso proprio Array.Filter
+*   Manipulando listas com For/ForIn/ForOf
+*   Criando nosso proprio Array.Map
+*   Criando nosso proprio Array.Filter
+*   Criando nosso proprio Array.Reduce

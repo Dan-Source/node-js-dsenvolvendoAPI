@@ -13,9 +13,7 @@ Array.prototype.meuFilter = function (callback){
 
 async function main(){
     try {
-
         const [...resultado ] = await obterPokemon()
-        
         // const familySaurs = resultado.filter(function(pokemon){
         //     console.log(pokemon)
         //     const filterPokemon = pokemon.name.toLowerCase().indexOf('saur') !== -1
