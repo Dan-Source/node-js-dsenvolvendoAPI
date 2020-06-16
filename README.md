@@ -22,3 +22,7 @@ Imersão em desenvolvimento de APIs com Node.js By #NodeBR!
 ### Introdução a desenvolvimento de testes automatizados
 
 *   Ambiente e configuração do ciclo de testes
+
+### Node.js além da Web - Criando ferramentas de linha de comando
+
+*   Manipulando arquivos - READ
