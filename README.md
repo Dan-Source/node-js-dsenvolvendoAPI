@@ -12,9 +12,13 @@ Imersão em desenvolvimento de APIs com Node.js By #NodeBR!
 *   Introdução à manipulação de eventos com EventEmitter 
 *   Trabalhando com Eventos com a classe EventEmitter
 
-###  Manipulando listas
+### Manipulando listas
 
 *   Manipulando listas com For/ForIn/ForOf
 *   Criando nosso proprio Array.Map
 *   Criando nosso proprio Array.Filter
 *   Criando nosso proprio Array.Reduce
+
+### Introdução a desenvolvimento de testes automatizados
+
+*   Ambiente e configuração do ciclo de testes
